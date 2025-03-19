@@ -1,0 +1,6 @@
+streamlit
+azure-core
+azure-ai-documentintelligence
+python-dotenv
+langchain-openai
+langchain_aws

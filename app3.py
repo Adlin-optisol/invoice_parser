@@ -317,7 +317,7 @@ def main():
                     status_text.text(f"Analyzing document: {uploaded_file.name}")
                     
                     # Process the PDF
-                    result = process_pdf(temp_file_path, vision_endpoint, vision_key)
+                    result = process_pdf(temp_file_path, vision_endpoint, vision_key).replace("```markdown","").replace("```","")
                     
                     progress_bar.progress(100)
                     status_text.text(f"Completed: {uploaded_file.name}")

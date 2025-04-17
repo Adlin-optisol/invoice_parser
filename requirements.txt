@@ -5,3 +5,4 @@ python-dotenv
 langchain-openai
 langchain_aws
 langchain-community
+azure-storage-blob

@@ -4,3 +4,4 @@ azure-ai-documentintelligence
 python-dotenv
 langchain-openai
 langchain_aws
+langchain-community

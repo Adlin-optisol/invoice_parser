@@ -23,7 +23,6 @@ pinecone
 langchain-chroma
 rank-bm25
 pytest
-mysqlclient
 langchain-experimental
 psycopg2-binary
 pyodbc

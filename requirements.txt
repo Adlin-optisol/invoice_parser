@@ -1,9 +1,9 @@
 streamlit
-azure-core
-azure-ai-documentintelligence
+azure-core==1.32.0
+azure-ai-documentintelligence == 1.0.0
 python-dotenv
-langchain-openai
-langchain_aws
+langchain-openai==0.2
+langchain_aws==0.2.20
 langchain-community
 langchain == 0.3.13
 langchain-openai == 0.2

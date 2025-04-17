@@ -7,7 +7,6 @@ langchain_aws
 langchain-community
 azure-storage-blob
 llama-parse
-python
 langchain
 chromadb
 boto3
